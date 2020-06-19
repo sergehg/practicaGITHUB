@@ -1,4 +1,5 @@
 
+Ejmplo de merge conflict
 rama Ricardo
 rama Sam
 rama Barajas
