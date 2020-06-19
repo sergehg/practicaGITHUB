@@ -1,3 +1,4 @@
+HEAD
 
 Ejmplo de merge conflict
 rama Ricardo
@@ -6,4 +7,5 @@ rama Barajas
 ramaSerge
 ramaLuis
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae blandit ante. Vestibulum ultricies sapien id dui cursus mollis. In et leo risus. Nullam maximus turpis neque, et rutrum elit luctus in. Vivamus varius, ante nec gravida egestas, tellus ex condimentum nisl, vel rutrum urna quam non mauris. Curabitur lobortis vitae enim eu pulvinar. Sed rutrum est et lorem ultrices tincidunt. Maecenas ac commodo urna. Maecenas elementum bibendum euismod.
+086d9bcaa8fea13c2a7d56a63d66d6f0431ffda4
 Integradora
